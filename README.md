@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syed Muhammad Taha</h1>
-<h3 align="center">A passionate frontend developer & designer from Pakistan.</h3>
+<h3 align="center">A passionate aspiring frontend developer and designer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **UNO in C language**
@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **syedmtaha.work@gmail.com**
 
-- ⚡ Fun Fact **Besides coding, I have a knack for instantly absorbing and imitating anything I hear.My brain’s like a recording device with a replay button! 😎**
+- ⚡ Fun Fact **Besides coding, I have a knack for instantly absorbing and imitating anything I hear. My brain’s like a recording device with a replay button! 😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
