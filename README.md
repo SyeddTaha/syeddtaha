@@ -11,7 +11,7 @@
 - ⚡ Fun Fact **Besides coding, I have a knack for instantly absorbing and imitating anything I hear. My brain’s like a recording device with a replay button! 😎**
 
 ## 🌐 Socials:
-[![Instagram](https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif)](https://instagram.com/stahajaffri) 
+[![Instagram](https://cdn-icons-png.flaticon.com/256/2111/2111463.png)](https://instagram.com/stahajaffri) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stahajaffri) 
 
 # 💻 Tech Stack:
