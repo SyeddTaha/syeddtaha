@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **syedmtaha.work@gmail.com**
 
-- ⚡ Fun Fact **Besides coding, I have a knack for instantly absorbing and imitating anything I hear. My brain’s like a recording device with a replay button! 😎**
+- ⚡ Fun Fact **My brain’s like a recording device with a replay button! Can absorb and imitate anything! 😉**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stahajaffri) 
