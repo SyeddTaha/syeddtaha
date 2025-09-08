@@ -4,7 +4,7 @@
 
 - 🔭 Exploring **Software Development & Cybersecurity**
 
-- 🌱 I’m currently learning ![JavaScript](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+- 🌱 I’m currently learning ![Node](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 
 - 📫 How to reach me **syedmtaha.work@gmail.com**
 
