@@ -1,12 +1,13 @@
 <!-- Header Banner -->
+
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00ff29&center=true&vCenter=true&width=700&lines=Hey+there!+I%27m+Taha;I+Love+Solving+Problems+with+Tech!;Crafting+modern+UI+and+high+performance+apps!;" 
     alt="Typing SVG"
   />
 </p>
-<h2 align="center">Full-Stack Developer and Graphic Designer</h2>
-<h4 align="center">Bachelor Of Science in Computer Sciences (BSCS) '28</h4>
+<h3 align="center">Full-Stack Developer and Graphic Designer</h2>
+<h5 align="center">Bachelor Of Science in Computer Sciences (BSCS) '28</h5>
 
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 
