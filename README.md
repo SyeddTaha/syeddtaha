@@ -5,10 +5,10 @@
     alt="Typing SVG"
   />
 </p>
-<h3 align="center">Full-Stack Developer and Graphic Designer</h3>
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
+<h2 align="center">Full-Stack Developer and Graphic Designer</h2>
+<h4 align="center">Bachelor Of Science in Computer Sciences (BSCS) '28</h4>
 
-- 🔭 Exploring **Software Development & Cybersecurity**
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 
 🌱 I’m currently practicing  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -128,6 +128,11 @@
 
 <td align="center" width="90">
 <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="55" height="55"/><br>C++
+</td>
+
+
+<td align="center" width="90">
+<img src="https://www.svgrepo.com/show/373445/assembly.svg" width="55" height="55"/><br>Asm
 </td>
 
 <td align="center" width="90"></td>
