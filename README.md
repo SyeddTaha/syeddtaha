@@ -9,7 +9,7 @@
 <h3 align="center">Full-Stack Developer and Graphic Designer</h2>
 <h5 align="center">Bachelor Of Science in Computer Sciences (BSCS) '28</h5>
 
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
+<img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 
 🌱 I’m currently practicing  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
