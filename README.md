@@ -1,7 +1,7 @@
 <!-- Header Banner -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C3FF&center=true&vCenter=true&width=700&lines=Hey+there!+I%27m+Taha;I+Love+Solving+Problems+with+Tech!;Crafting+modern+UI+and+high+performance+apps!;" 
+    src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00ff29&center=true&vCenter=true&width=700&lines=Hey+there!+I%27m+Taha;I+Love+Solving+Problems+with+Tech!;Crafting+modern+UI+and+high+performance+apps!;" 
     alt="Typing SVG"
   />
 </p>
