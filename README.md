@@ -1,20 +1,147 @@
-<h1 align="center">Hey Devs👋, I'm Syed Muhammad Taha</h1>
-<h3 align="center">A passionate full-stack developer and designer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
+<!-- Header Banner -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C3FF&center=true&vCenter=true&width=700&lines=Hey+there!+I%27m+Taha;I+Love+Solving+Problems+with+Tech!;Crafting+modern+UI+and+high+performance+apps!;" 
+    alt="Typing SVG"
+  />
+</p>
+<h3 align="center">Full-Stack Developer and Graphic Designer</h3>
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 
 - 🔭 Exploring **Software Development & Cybersecurity**
 
-- 🌱 I’m currently learning ![Node](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+🌱 I’m currently practicing  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 - 📫 How to reach me **syedmtaha.work@gmail.com**
 
 - ⚡ Fun Fact **My brain’s like a recording device with a replay button! Can absorb and imitate anything! 😉**
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stahajaffri) 
-
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+<table align="center">
+<tbody>
+
+<!-- Modern Web Stack First -->
+<tr>
+
+<td align="center" width="90">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" width="55" height="55"/><br>React
+</td>
+
+<td align="center" width="90">
+<img src="https://techstack-generator.vercel.app/redux-icon.svg" width="55" height="55"/><br>Redux
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55"/><br>Node.js
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=express" width="45" height="45"/><br>Express.js
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55"/><br>MongoDB
+</td>
+
+<td align="center" width="90">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="55" height="55"/><br>JavaScript
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45"/><br>Tailwind CSS
+</td>
+
+</tr>
+
+<!-- Web Fundamentals & Tools -->
+<tr>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=html" width="45" height="45"/><br>HTML5
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=css" width="45" height="45"/><br>CSS3
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=git" width="45" height="45"/><br>Git
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=postman" width="45" height="45"/><br>Postman
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=figma" width="45" height="45"/><br>Figma
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=linux" width="55" height="55"/><br>Linux
+</td>
+
+<td align="center" width="90">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" height="55"/><br>Python
+</td>
+
+</tr>
+
+<!-- Databases + Design + Testing -->
+<tr>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=mysql" width="45" height="45"/><br>MySQL
+</td>
+
+<td align="center" width="90">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="45" height="45"/><br>Oracle
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=jest" width="45" height="45"/><br>Jasmine
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=illustrator" width="55" height="55"/><br>Adobe Illustrator
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=photoshop" width="55" height="55"/><br>Adobe Photoshop
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=qt" width="45" height="45"/><br>Qt
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=c" width="55" height="55"/><br>C
+</td>
+
+</tr>
+
+<!-- Core Languages Last -->
+<tr>
+
+<td align="center" width="90">
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="55" height="55"/><br>C++
+</td>
+
+<td align="center" width="90"></td>
+<td align="center" width="90"></td>
+<td align="center" width="90"></td>
+<td align="center" width="90"></td>
+<td align="center" width="90"></td>
+<td align="center" width="90"></td>
+
+</tr>
+
+</tbody>
+</table>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=syeddtaha&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=syeddtaha&theme=dark&hide_border=false)<br/>
