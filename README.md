@@ -17,7 +17,7 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-- 📫 How to reach me **syedmtaha.work@gmail.com**
+- 📫 How to reach me **connect.taha.dev@gmail.com**
 
 - ⚡ Fun Fact **My brain’s like a recording device with a replay button! Can absorb and imitate anything! 😉**
 
