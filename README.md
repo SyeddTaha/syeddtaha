@@ -11,11 +11,14 @@
 
 <img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 
-🌱 I’m currently practicing  
+⚙️ Building with  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 - 📫 How to reach me **connect.taha.dev@gmail.com**
 
@@ -53,7 +56,7 @@
 </td>
 
 <td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45"/><br>Tailwind CSS
+<img src="https://skillicons.dev/icons?i=nextjs" width="55" height="55"/><br>Next.js
 </td>
 
 </tr>
@@ -78,7 +81,7 @@
 </td>
 
 <td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=figma" width="45" height="45"/><br>Figma
+<img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45"/><br>Tailwind CSS
 </td>
 
 <td align="center" width="90">
@@ -119,29 +122,32 @@
 </td>
 
 <td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=c" width="55" height="55"/><br>C
+<img src="https://skillicons.dev/icons?i=figma" width="45" height="45"/><br>Figma
 </td>
 
 </tr>
 
 <!-- Core Languages Last -->
 <tr>
-
+  
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=c" width="55" height="55"/><br>C
+</td>
+  
 <td align="center" width="90">
 <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="55" height="55"/><br>C++
 </td>
-
 
 <td align="center" width="90">
 <img src="https://www.svgrepo.com/show/373445/assembly.svg" width="55" height="55"/><br>Asm
 </td>
 
+
+
+<!-- <td align="center" width="90"></td>
 <td align="center" width="90"></td>
 <td align="center" width="90"></td>
-<td align="center" width="90"></td>
-<td align="center" width="90"></td>
-<td align="center" width="90"></td>
-<td align="center" width="90"></td>
+<td align="center" width="90"></td> -->
 
 </tr>
 
