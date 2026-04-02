@@ -6,7 +6,7 @@
     alt="Typing SVG"
   />
 </p>
-<h3 align="center">MERN Stack Developer and Graphic Designer</h2>
+<h3 align="center">Full Stack Engineer and Graphic Designer</h2>
 <h5 align="center">Bachelor Of Science in Computer Sciences (BSCS) '28</h5>
 
 <img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
@@ -154,4 +154,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=syeddtaha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy-fork-two.vercel.app/?username=SyeddTaha&theme=dark)
+<!--![](https://github-profile-trophy-fork-two.vercel.app/?username=SyeddTaha&theme=dark) -->
+[![trophy](https://trophygh.kolioaris.xyz/?username=SyeddTaha&theme=dark)]
+
