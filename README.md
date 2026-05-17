@@ -158,8 +158,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=syeddtaha&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=syeddtaha&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=syeddtaha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-<!--![](https://github-profile-trophy-fork-two.vercel.app/?username=SyeddTaha&theme=dark) -->
-[![trophy](https://trophygh.kolioaris.xyz/?username=SyeddTaha&theme=dark)]
-
