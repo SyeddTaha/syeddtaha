@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **connect.taha.dev@gmail.com**
 
-- ⚡ Fun Fact **My brain’s like a recording device with a replay button! Can absorb and imitate anything! 😉**
+- ⚡ Fun Fact **Life's too short for repetitive tasks. Just automate it man!**
 
 # 💻 Tech Stack:
 <table align="center">
